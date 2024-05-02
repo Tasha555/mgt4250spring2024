@@ -4,7 +4,8 @@ Author: Tasha, nfrost@elon.edu
 ###Questions of interest 
 - Question 1
 - Question 2
-- Question 3 
+- Question 3
+  
 ###Importance
 - This is especially **important** because...
 1. Reason 1
