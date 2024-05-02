@@ -20,6 +20,6 @@ Author: Tasha, nfrost@elon.edu
 
 ## Discussion & Summary 
 
-```
+```python
 import pandas as pd 
 ```
