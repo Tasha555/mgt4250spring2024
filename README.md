@@ -12,3 +12,4 @@ Author: Tasha, nfrost@elon.edu
 2. Reason 2
 3. Reason 3 
 [Elon University](https://www.elon.edu/)
+<img width="340" alt="Screenshot 2024-05-02 at 2 54 40 PM" src="https://github.com/Tasha555/mgt4250spring2024/assets/168772430/d48781e7-4996-47a6-9adc-a2fc5a7f82ef">
