@@ -1,2 +1,2 @@
-# mgt4250spring2024
-This is a repository for MGT4250
+# mgt 4250spring 2024 Course Project 
+Author: Tasha, nfrost@elon.edu
